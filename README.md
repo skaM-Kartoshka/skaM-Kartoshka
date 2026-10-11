@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**skaM-Kartoshka/skaM-Kartoshka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#skaM Kartoshka
 
-Here are some ideas to get you started:
+# Характеристеки
+### IQ нижче кртошки
+### Рост 1,47м
+### Вік 12401 років
+### Розроботчик Minecraft
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Досягнення
+### Спалив дом за 3 минути
+### Винайшов 4 измирения
+
